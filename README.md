@@ -29,7 +29,7 @@ int main() {
  while (j <= 0) //Exponent
  {
  cout << Input << "*" << j << " = " << pow(Input, j) << endl;
- j++
+ j++;
  }
  return 0;
  }
